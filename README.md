@@ -1,8 +1,9 @@
 # Virtual-Hackathon
-Data Analysis on COVID-19
+This is a project to analyse the analyse and predict COVID cases in the world. It has been done using Python.
 
-Students       Roll
-Varun.B.G      19BCS111
-V.Manideep     19BCS112
 
-Number of students in group=2
+The packages involved:
+Sci-kit
+pandas
+numpy
+plotly
